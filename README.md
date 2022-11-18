@@ -1,2 +1,2 @@
-# algorithms
-Learning Algorithms
+# Algorithms
+Learning Algorithms from "Grokking Algorithms" book
